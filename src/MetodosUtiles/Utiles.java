@@ -7,5 +7,4 @@ public class Utiles{
 		System.out.println("Paso: " + linea);
 		Reporter.log("Paso: " + linea);
 	}
-	
 }
